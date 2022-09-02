@@ -5,6 +5,11 @@ chown. changes ownership of a file from hello to betty
 touch. create an empty file
 chmod. add execute permission
 chmod +114. give execution permission to owner and group owner and read permission to other users
-chmod +222. give execution permission to everyody
+chmod +111. give execution permission to everyody
 chmod +007.no permission to owner and group. all permissions to other users only
+chmod
+chmod --reference. this command sets the mode of a file to be the same as another
+chmod
+chmod
+chmod
 
