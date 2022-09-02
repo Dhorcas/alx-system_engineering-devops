@@ -4,3 +4,4 @@ groups. this command shows the group the current user is part of
 chown. changes ownership of a file from hello to betty
 touch. create an empty file
 chmod. add execute permission
+chmod +114. give execution permission to owner and group owner and read permission to other users
