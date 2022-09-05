@@ -1,1 +1,1 @@
-ALX Shell Redirections and Permissions Project
+echo "Hello, World". Command to print "Hello, World"
