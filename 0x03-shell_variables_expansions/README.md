@@ -1,0 +1,1 @@
+alias lsrm 'ls rm *'  script to create an alias
